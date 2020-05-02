@@ -11,7 +11,7 @@ organize o material....
 
 # MARK SEAN
 1. Volte no objeto
-2. selecione as partes que faltam do outro lado ( Braços e pernas )
+2. selecione as partes que faltam do outro lado (Braços e pernas )
 3. Tecle ponto, para centralizar o cursor.
 4. Pressione Shitf + D, ESC, S, X, -1.
 5. Pressione a, Pressione W.

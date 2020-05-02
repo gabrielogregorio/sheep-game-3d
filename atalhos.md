@@ -5,9 +5,9 @@
 3. g + shif + z  (um após o outro ) movimentar no eixo x e y sem mexer no z.  
 4. ALT + R - Reseta a rotação ou scale (s) ou posição (g).  
 5. CRTL + A - para aplicar um novo padrão para o reset. 
-6. CRTL + TAB - No edit mode, alterna entre: Vertice, face e edige.  
+6. CRTL + TAB - No edit mode, alterna entre: Vértice, face e edige.  
 7. shift + s - Menu para reposicionar o cursor.  
-8. CRTL+N tirar erros de calculo do cenario. Remover faces invisiveis por exemplo.  
+8. CRTL+N tirar erros de cálculo do cenário. Remover faces invisíveis por exemplo.  
 9. CTRL + Up - Maximizar a tela.
 10. CTRL + J - Unir todo mundo em um único objeto.
 11. S, Z, 0 - Alinhar vértices.
@@ -32,7 +32,7 @@
 1. Pressione W. 
 2. Escolha subdivide. 
 
-### juntar todas as vertices em um único ponto
+### juntar todas as vértices em um único ponto
 1. No edit mode e com muitas vertices selecionadas. 
 2. Pressione s. 
 3. Pressione 0. 
@@ -40,7 +40,7 @@
 ### Unir vários pontos a um único ponto.
 1. No edit mode. 
 2. Selecione a vértice principal. 
-3. Selecione as outras vértices. 
+3. Selecione as outros vértices. 
 4. Aperte ALT + M. 
 6. Escolha First... 
 
@@ -54,6 +54,6 @@
 7. Aperte u e de um cube projection. 
 8. Vai carregar o 2d do objeto no UV image editor. 
 9. Escolha a textura que você carregou. 
-10. Se você sair do edit mode e abrir as texturas. você verá que a textura já estão aplicadas. 
+10. Se você sair do edit mode e abrir as texturas. você verá que a textura já está aplicadas. 
 
 > EIXO Y - FRENTE, EIXO Z - CIMA, EIXO X
